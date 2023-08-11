@@ -1,1 +1,2 @@
-    print("hello world")
+# print syntax
+print("hello world")
